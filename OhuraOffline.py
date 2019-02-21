@@ -1,3 +1,4 @@
+heroku create myapp --buildpack heroku/python
 #coding: utf-8
 import discord
 import random
